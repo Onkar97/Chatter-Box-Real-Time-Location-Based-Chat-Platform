@@ -1,6 +1,6 @@
-# ChatterBox – Real-Time Location-Based Chat Platform
+# Chatter Box – Real-Time Location-Based Chat Platform
 
-ChatterBox is a real-time chat application built with **Node.js** and **Socket.io**. It supports chat rooms, user presence, message timestamps, and location sharing via the browser's geolocation API.
+Chatter Box is a real-time chat application built with **Node.js** and **Socket.io**. It supports chat rooms, user presence, message timestamps, and location sharing via the browser's geolocation API.
 
 ## Features
 - **Live Messaging** with Socket.io (rooms, join/leave notifications, timestamps)
